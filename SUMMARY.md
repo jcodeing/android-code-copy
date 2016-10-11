@@ -1,9 +1,8 @@
 # Summary
 
 ## Overview
+* [Android Code Copy](README.md)
 
-* [My Awesome API](README.md)
+## Snippet
+* [Hot](snippet/hot.md)
 
-## Methods
-
-* [Defining Methods](methods.md)
